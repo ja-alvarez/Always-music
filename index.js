@@ -32,7 +32,7 @@ const getStudents = async () => {
     let results = await pool.query(request);
     log('*******Get Students*******')
     log(results.rows);
-    log('Cantidad de registros encontrados: ' + results.rowCount);
+    log('Number of records found: ' + results.rowCount);
     console.table(results.rows);
     log('*****************************************')
     pool.end();
