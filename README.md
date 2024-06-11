@@ -21,7 +21,7 @@ La escuela de música Always Music es reconocida por graduar a grandes músicos 
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/always-music.git
+    git clone https://github.com/ja-alvarez/always-music.git
     cd always-music
     ```
 
@@ -93,7 +93,7 @@ Always Music School is renowned for graduating world-renowned musicians. This pr
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/always-music.git
+    git clone https://github.com/ja-alvarez/always-music.git
     cd always-music
     ```
 
